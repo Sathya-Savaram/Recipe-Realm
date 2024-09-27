@@ -2,6 +2,7 @@
 RecipeRealm is a responsive recipe search application built with vanilla JavaScript. It uses the Edamam API to fetch recipe details based on user queries. Users can search for recipes by entering keywords and view detailed recipe information.
 
 ## Web Page
+
 ![Recipe Realm Homepage](https://github.com/user-attachments/assets/c651c421-a41f-44d7-b66f-c69acdc934fc)
 
 ## Search Ingredient name 
